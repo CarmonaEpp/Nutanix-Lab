@@ -1,6 +1,6 @@
 # Nutanix Lab
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.png.png)
 
 
 ## Laravel PHP Framework
